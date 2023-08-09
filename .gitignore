@@ -1,3 +1,9 @@
 .vscode
 *.csv
 *.json
+
+.python-version
+pyproject.toml
+requirements.lock
+requirements-dev.lock
+```
